@@ -1,5 +1,5 @@
 {
-    "name": "niji-digital/drupal-settings",
+    "name": "abecms/drupal-settings",
     "description": "Composer Plugin for generate the Drupal settings file.",
     "type": "composer-plugin",
     "license": "GPL-2.0+",
