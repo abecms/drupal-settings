@@ -19,7 +19,7 @@
     },
     "require": {
         "composer-plugin-api": "^1.0.0",
-        "drupal/core": "~8.4",
+        "drupal/core": "~9.0",
         "php": ">=5.4.5",
         "twig/twig": "^1.23.1"
     },
